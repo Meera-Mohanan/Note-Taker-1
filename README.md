@@ -23,13 +23,13 @@ Note Taker can be used to write and save notes. This application will use an Exp
     8.Open browser and type http://localhost:3001/ to run this application on your local machine.
 
   ## Usage
-  1.When opening the deployed Note Taker application, the user is presented with a landing page with links to a note page. 
-  2.When clicked on get started button, user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note's text in the right-hand column.
-  3.When the user enters a new note title and text, then a Save icon appears in the navigation bar at the top of the page.
-  4.When the user clicks on the Save icon, then the new note is saved and appears in the left-hand column with the other existing notes.
-  5.When an existing note in the list in the left-hand column is clicked, then that note appears in the right-hand column.
-  6.When clicked on the delete button in the list of the left-hand column next to the saved note, then the note gets deleted or diappears.
-  7.When the user clicks the Write icon in the navigation bar at the top of the page, then they are presented with empty field to enter a new note title and text in the right-hand column.
+    1.When opening the deployed Note Taker application, the user is presented with a landing page with links to a note page. 
+    2.When clicked on get started button, user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note's text in the right-hand column.
+    3.When the user enters a new note title and text, then a Save icon appears in the navigation bar at the top of the page.
+    4.When the user clicks on the Save icon, then the new note is saved and appears in the left-hand column with the other existing notes.
+    5.When an existing note in the list in the left-hand column is clicked, then that note appears in the right-hand column.
+    6.When clicked on the delete button in the list of the left-hand column next to the saved note, then the note gets deleted or diappears.
+    7.When the user clicks the Write icon in the navigation bar at the top of the page, then they are presented with empty field to enter a new note title and text in the right-hand column.
 
 
   ## License
