@@ -22,8 +22,8 @@ Note Taker can be used to write and save notes. This application will use an Exp
 6.Run command npm i uuid to install uuid package to generate unique id.
 7.The application will be invoked by using the following command: node server.js.This will start localhost server on PORT 3001.
 8.Open browser and type http://localhost:3001/ to run this application on your local machine.
-  ```
-  ## Usage
+
+## Usage
   
 1.When opening the deployed Note Taker application, the user is presented with a landing page with links to a note page.
 2.When clicked on get started button, user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note's text in the right-hand column.
