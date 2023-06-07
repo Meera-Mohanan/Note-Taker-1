@@ -14,10 +14,11 @@ app.use(express.urlencoded({extended: true}));
 app.use(express.static('public'));
 
 //use routes
-app.use('./routes/apiRoutes');
-app.use('./routes/htmlRoutes');
+app.use('/api', apiRoutes);
+app.use('/', htmlRoutes);
+
 
 //starts the server to begin listenig
 app.listen(port, () => {
     console.log(`API server now on port: ${port}!`);
-});
+})
