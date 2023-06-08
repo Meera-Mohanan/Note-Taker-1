@@ -5,7 +5,7 @@ const router = require('express').Router();
 //module.exports = (app) => {
     //Get /notes returns notes.html file
     router.get('/notes', (req, res) => {
-        res.sendFile(path.join(__dirname, '../public/notes.html'));
+        res.sendFile(path.join(__dirname,'../public/notes.html'));
     });
 
     //Get * returns index.html file
